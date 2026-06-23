@@ -1,10 +1,10 @@
-# 🐯 Dominic — Bot de Admisiones Santoto
+# Dominic — Bot de Admisiones Santoto
 
 Chatbot de WhatsApp para el proceso de admisiones del **Colegio Bilingüe Santo Tomás de Aquino**.
 
 ---
 
-## 🚀 Despliegue paso a paso
+## Despliegue paso a paso
 
 ### PASO 1 — Subir a GitHub
 
@@ -62,11 +62,11 @@ git push -u origin main
 
 ### PASO 5 — Probar
 
-Envía un mensaje de WhatsApp al número de prueba de Meta con el texto `hola` y Dominic responderá. 🐯
+Envía un mensaje de WhatsApp al número de prueba de Meta con el texto `hola` y Dominic responderá. 
 
 ---
 
-## 📄 Documentos configurados
+## Documentos configurados
 
 | Documento | Descripción |
 |---|---|
@@ -78,7 +78,7 @@ Para actualizar los PDFs, edita las URLs en `src/flows.js` en la sección `DOCS`
 
 ---
 
-## 🛠 Desarrollo local
+## Desarrollo local
 
 ```bash
 npm install
@@ -89,6 +89,6 @@ npm run dev
 
 ---
 
-## 📞 Soporte
+## Soporte
 
-Desarrollado por **Branz Soluciones** para el Colegio Bilingüe Santo Tomás de Aquino.
+Desarrollado por **Ing.Fabian Bravo Celis** para el Colegio Bilingüe Santo Tomás de Aquino.
